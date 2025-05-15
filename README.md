@@ -7,6 +7,7 @@ All READMEs for this class should have the following sections:
 ## General information
 
 What is this repo for?
+this repo is for testing forking and practicing commiting and pushing, It als has code for running linear models
 
 Whose repo is it? Who is contributing to it?
 
